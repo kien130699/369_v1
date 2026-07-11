@@ -1,0 +1,10 @@
+{
+  "name": "xauusd-369-fractal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bash scripts/build.sh",
+    "validate": "node scripts/validate-artifact.mjs"
+  },
+  "displayName": "369 Fractal Lab"
+}
